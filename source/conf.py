@@ -2,7 +2,7 @@
 #
 # This file only contains a selection of the most common options. For a full
 # list see the documentation:
-# https://www.sphinx-doc.org/en/main/usage/configuration.html
+# https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
 
@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'try'
-copyright = '2021, Yu Xie'
-author = 'Yu Xie'
+copyright = '2021, yuuu'
+author = 'yuuu'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '1.0'
 master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
